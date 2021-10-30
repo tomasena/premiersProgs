@@ -10,7 +10,7 @@ public class Demenagement {
 	}
 
 	public void auTravail(int nbCartons) {
-		System.out.println(nom + " posede un camion de capacité :   " + capCamion);
+		System.out.println(nom + " posede un camion de capacité : " + capCamion);
 		System.out.println("Debut du déménagement");
 		System.out.println("noVoyage nbCartons emport capCamion");
 		int noVoyage = 1;
